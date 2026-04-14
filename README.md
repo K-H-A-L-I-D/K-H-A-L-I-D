@@ -1,64 +1,84 @@
-# Hi 👋, I'm Khalid Mohammed
+<div align="center">
 
-### Fullstack Developer | AI/ML Engineer | Cybersecurity Researcher
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d2137,100:0a4060&height=200&section=header&text=Khalid%20Mohammed&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=Fullstack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=18&descColor=7ecfea&animation=fadeIn" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=K-H-A-L-I-D&label=Profile%20views&color=0e75b6&style=flat" alt="K-H-A-L-I-D" /> </p>
+<a href="https://kmoh.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+at+the+intersection+of+AI%2C+security%2C+and+systems.;Dual+B.S.+CS+%26+AI+%E2%80%A2+Drake+University+%E2%80%A2+Summa+Cum+Laude;Published+%40+UCNC+2025+%E2%80%A2+Springer+LNCS;2nd+nationally+%E2%80%A2+ISEAGE+CDC+Hackathon" alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=K-H-A-L-I-D" alt="K-H-A-L-I-D" /></a> </p>
+<br/>
 
-- 🔭 I'm currently working on **[VenomX — AI Penetration Testing Assistant with 8 specialist agents & RAG over 487K+ CVEs](https://kmoh.dev)**
+[![Portfolio](https://img.shields.io/badge/kmoh.dev-0a4060?style=for-the-badge&logo=firefox&logoColor=00d4ff)](https://kmoh.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a4060?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/khalidabdulhakim)
+[![GitHub](https://img.shields.io/badge/GitHub-0a4060?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/K-H-A-L-I-D)
+[![Profile Views](https://komarev.com/ghpvc/?username=K-H-A-L-I-D&style=for-the-badge&color=0a4060&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/K-H-A-L-I-D)
 
-- 🌱 I'm currently learning **Advanced RAG pipelines, multi-agent orchestration, and spatial positioning systems**
+</div>
 
-- 👯 I'm looking to collaborate on **AI security tools, open-source ML projects, and full-stack applications**
+---
 
-- 💬 Ask me about **Python, Machine Learning, Cybersecurity, React/Next.js, and Azure ML**
+### ◈ About
 
-- 📫 How to reach me **[linkedin.com/in/khalidabdulhakim](https://linkedin.com/in/khalidabdulhakim)**
+Fullstack developer and AI researcher building at the intersection of **intelligent systems, computer vision, and applied security**. I build things that work at scale — from ML inference pipelines on Azure to multi-agent AI assistants with RAG over 487K+ CVEs.
 
-- 👨‍💻 All of my projects are available at **[kmoh.dev](https://kmoh.dev)**
+Finishing a Dual B.S. in **Computer Science & AI** (Cybersecurity Minor) at Drake University — Summa Cum Laude, 4.0 GPA. Published at **UCNC 2025 (Springer LNCS)**. Founding member of Drake Cyber Club.
 
-- ⚡ Fun fact **Ranked 2nd nationally & 5th internationally in the ISEAGE CDC Hackathon, and published a paper at UCNC 2025 (Springer LNCS)**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/K-H-A-L-I-D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="K-H-A-L-I-D" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khalidabdulhakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalidabdulhakim" height="30" width="40" /></a>
+### ◈ Now
+
+- 🔬 **[VenomX](https://kmoh.dev)** — AI pentesting assistant with 8 specialist agents & RAG over 487K+ CVEs. Presented at CCSC 2026.
+- 📡 **SPECTRE** — Hybrid spatial positioning fusing cameras + BLE beacons for real-time multi-person tracking.
+- 🧠 Exploring: advanced multi-agent orchestration, synthetic data generation, and LLM security research.
+- 🤝 Open to collaborating on AI security tools and open-source ML infrastructure.
+
+---
+
+### ◈ Stack
+
+**Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,cs,bash" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
- <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>
- <a href="https://isocpp.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a>
- <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a>
- <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a>
- <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
- <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a>
- <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>
- <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a>
- <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a>
- <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a>
- <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a>
- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a>
- <a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a>
- <a href="https://opencv.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a>
- <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a>
- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a>
- <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a>
- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a>
- <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a>
- <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>
- <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=terraform" alt="terraform" width="40" height="40"/> </a>
- <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
- <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
+**Frontend & Frameworks**
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,django,flask,spring,fastapi" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=K-H-A-L-I-D&show_icons=true&locale=en&layout=compact" alt="K-H-A-L-I-D" /></p>
+**AI / ML**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=K-H-A-L-I-D&show_icons=true&locale=en" alt="K-H-A-L-I-D" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=K-H-A-L-I-D&" alt="K-H-A-L-I-D" /></p>
+**Data & Cloud**
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,aws,azure,docker,terraform,git,linux" />
+</p>
+
+---
+
+### ◈ Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=K-H-A-L-I-D&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=7ecfea&bg_color=0d1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-H-A-L-I-D&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=7ecfea&bg_color=0d1117" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=K-H-A-L-I-D&theme=github-dark-blue&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=7ecfea&sideLabels=7ecfea&dates=4a7a8a" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a4060,50:0d2137,100:0a0a0a&height=100&section=footer" />
+
+</div>
