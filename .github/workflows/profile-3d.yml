@@ -16,6 +16,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
           USERNAME: K-H-A-L-I-D
+          ALL_TIME: 'true'
 
       - name: Commit & Push
         run: |
