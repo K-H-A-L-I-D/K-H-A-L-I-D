@@ -71,7 +71,7 @@ Finishing a Dual B.S. in **Computer Science & AI** (Cybersecurity Minor) at Drak
 <br/>
 
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=K-H-A-L-I-D&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=7ecfea&bg_color=0d1117" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-H-A-L-I-D&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=7ecfea&bg_color=0d1117" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-H-A-L-I-D&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=7ecfea&bg_color=0d1117&langs_count=10" />
 
 </div>
 
