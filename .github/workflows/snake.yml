@@ -11,8 +11,18 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
           github_user_name: K-H-A-L-I-D
           outputs: |
             dist/snake.svg?palette=github-dark
+
+      - uses: EndBug/add-and-commit@v7
+        with:
+          branch: main
+          add: dist/snake.svg
+          message: "chore: update snake animation"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
