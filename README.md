@@ -66,12 +66,12 @@ Finishing a Dual B.S. in **Computer Science & AI** (Cybersecurity Minor) at Drak
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=K-H-A-L-I-D&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=7ecfea&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-H-A-L-I-D&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=7ecfea&bg_color=0d1117" />
+<img src="profile-3d-contrib/profile.svg" alt="3D Contribution Graph" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=K-H-A-L-I-D&theme=github-dark-blue&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=7ecfea&sideLabels=7ecfea&dates=4a7a8a" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=K-H-A-L-I-D&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=7ecfea&bg_color=0d1117" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-H-A-L-I-D&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=7ecfea&bg_color=0d1117" />
 
 </div>
 
