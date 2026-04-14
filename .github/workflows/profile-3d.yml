@@ -12,17 +12,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate settings with rolling 12-month window
-        run: |
-          START=$(date -d "1 year ago" +%Y-%m-%d)
-          END=$(date +%Y-%m-%d)
-          echo "{\"githubUserName\":\"K-H-A-L-I-D\",\"startDate\":\"$START\",\"endDate\":\"$END\"}" > /tmp/settings.json
-
       - uses: K-H-A-L-I-D/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
           USERNAME: K-H-A-L-I-D
-          SETTING_JSON: /tmp/settings.json
+
       - name: Commit & Push
         run: |
           git config user.email "action@github.com"
