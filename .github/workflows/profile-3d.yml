@@ -18,7 +18,7 @@ jobs:
           END=$(date +%Y-%m-%d)
           echo "{\"githubUserName\":\"K-H-A-L-I-D\",\"startDate\":\"$START\",\"endDate\":\"$END\"}" > /tmp/settings.json
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: K-H-A-L-I-D/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
           USERNAME: K-H-A-L-I-D
