@@ -15,12 +15,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: |
-            {
-              "githubUserName": "K-H-A-L-I-D",
-              "type": "isometric-animation",
-              "fileName": "profile-3d-contrib/profile.svg"
-            }
       - name: Commit & Push
         run: |
           git config user.email "action@github.com"

@@ -66,7 +66,7 @@ Finishing a Dual B.S. in **Computer Science & AI** (Cybersecurity Minor) at Drak
 
 <div align="center">
 
-<img src="profile-3d-contrib/profile.svg" alt="3D Contribution Graph" width="100%" />
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 
 <br/>
 
