@@ -36,28 +36,12 @@ I'm finishing a dual degree in **Computer Science and AI** at Drake University, 
 
 ### ◈ Stack
 
-**Languages**
-
 <p>
-<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,cs,bash" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,cs,bash,react,nextjs,tailwind,nodejs,django,flask,spring,fastapi&perline=8" />
 </p>
 
-**Frontend & Frameworks**
-
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,django,flask,spring,fastapi" />
-</p>
-
-**AI / ML**
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-**Data & Cloud**
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,aws,azure,docker,terraform,git,linux" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,postgres,mysql,aws,azure,docker,terraform,git,linux&perline=8" />
 </p>
 
 ---
