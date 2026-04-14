@@ -19,18 +19,18 @@
 
 ### ◈ About
 
-Fullstack developer and AI researcher building at the intersection of **intelligent systems, computer vision, and applied security**. I build things that work at scale — from ML inference pipelines on Azure to multi-agent AI assistants with RAG over 487K+ CVEs.
+Most of what I build lives at the edge where machine learning runs into something that needs to work reliably in the real world. That has meant training vision models to track people through crowded physical spaces, building RAG pipelines over half a million CVE records so a security agent can reason about them in real time, and tuning Azure ML infrastructure to stop burning compute when it has nothing to process.
 
-Finishing a Dual B.S. in **Computer Science & AI** (Cybersecurity Minor) at Drake University — Summa Cum Laude, 4.0 GPA. Published at **UCNC 2025 (Springer LNCS)**. Founding member of Drake Cyber Club.
+I'm finishing a dual degree in **Computer Science and AI** at Drake University, with a cybersecurity minor, graduating summa cum laude with a 4.0 GPA. A paper from my research there was published at **UCNC 2025 (Springer LNCS)**. I co-founded the Drake Cyber Club, which competes nationally in cybersecurity.
 
 ---
 
 ### ◈ Now
 
-- 🔬 **[VenomX](https://kmoh.dev)** — AI pentesting assistant with 8 specialist agents & RAG over 487K+ CVEs. Presented at CCSC 2026.
-- 📡 **SPECTRE** — Hybrid spatial positioning fusing cameras + BLE beacons for real-time multi-person tracking.
-- 🧠 Exploring: advanced multi-agent orchestration, synthetic data generation, and LLM security research.
-- 🤝 Open to collaborating on AI security tools and open-source ML infrastructure.
+- 🔬 **[VenomX](https://kmoh.dev)**, a pentesting assistant where eight specialist agents divide the work across a RAG pipeline covering 487K+ CVE records. Presented at CCSC 2026.
+- 📡 **SPECTRE**, a real-time positioning system that fuses overhead cameras with BLE beacon data to track multiple people through a physical space, no GPS required.
+- 🧠 Going deeper into multi-agent orchestration, synthetic data generation pipelines, and how LLMs behave when pointed at a live threat surface.
+- 🤝 Looking for collaborators on AI security tooling and open-source ML infrastructure.
 
 ---
 
