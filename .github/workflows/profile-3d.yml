@@ -11,10 +11,18 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
+
+      - name: Generate settings with rolling 12-month window
+        run: |
+          START=$(date -d "1 year ago" +%Y-%m-%d)
+          END=$(date +%Y-%m-%d)
+          echo "{\"githubUserName\":\"K-H-A-L-I-D\",\"startDate\":\"$START\",\"endDate\":\"$END\"}" > /tmp/settings.json
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: K-H-A-L-I-D
+          SETTING_JSON: /tmp/settings.json
       - name: Commit & Push
         run: |
           git config user.email "action@github.com"
