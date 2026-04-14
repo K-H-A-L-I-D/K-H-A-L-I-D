@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  github-metrics:
+  languages:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -29,4 +29,21 @@ jobs:
           plugin_languages_threshold: 0%
           output_action: commit
           filename: profile-langs.svg
+          config_timezone: America/Chicago
+
+  isocalendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.STATS_TOKEN }}
+          user: K-H-A-L-I-D
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          output_action: commit
+          filename: profile-calendar.svg
           config_timezone: America/Chicago
