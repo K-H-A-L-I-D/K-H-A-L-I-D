@@ -27,7 +27,7 @@ I'm finishing a dual degree in **Computer Science and AI** at Drake University, 
 
 ### ◈ Now
 
-- 🔬 **[VenomX](https://kmoh.dev)**, a pentesting assistant where eight specialist agents divide the work across a RAG pipeline covering 487K+ CVE records. Presented at CCSC 2026.
+- 🔬 **[VenomX](https://venomxai.com)**, a pentesting assistant where eight specialist agents divide the work across a RAG pipeline covering 487K+ CVE records. Presented at CCSC 2026.
 - 📡 **SPECTRE**, a real-time positioning system that fuses overhead cameras with BLE beacon data to track multiple people through a physical space, no GPS required.
 - 🧠 Going deeper into multi-agent orchestration, synthetic data generation pipelines, and how LLMs behave when pointed at a live threat surface.
 - 🤝 Looking for collaborators on AI security tooling and open-source ML infrastructure.
